@@ -1,5 +1,7 @@
 # hello-preactjs
 
+[![ci](https://github.com/wookay/hello-preactjs/actions/workflows/preactjs.yml/badge.svg)](https://github.com/wookay/hello-preactjs/actions/workflows/preactjs.yml)
+
 ## CLI Commands
 
 ``` bash
